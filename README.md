@@ -1,1 +1,3 @@
 # HelloGitRepo
+
+To explore Git
