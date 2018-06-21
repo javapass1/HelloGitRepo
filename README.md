@@ -1,6 +1,6 @@
 # HelloGitRepo
 
 To explore Git
-First Mast
+First Mast -1
 from Second
-Third change 
+Third change
